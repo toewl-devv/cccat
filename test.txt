@@ -1,5 +1,0 @@
-Hello world!
-
-Hello world again!
-
-This message was brought to you by test.txt :D
